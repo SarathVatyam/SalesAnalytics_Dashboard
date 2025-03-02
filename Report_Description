@@ -1,0 +1,37 @@
+Interactive Power BI Dashboard – Sales and Shipment Analytics
+This highly interactive Power BI dashboard provides a comprehensive analysis of sales, costs, profits, and shipments for Awesome Chocolates, leveraging slicer-driven filtering, dynamic bookmarks, and action-based insights for an intuitive user experience.
+
+Key Features:
+Interactive KPI Cards:
+
+The top section presents key metrics: Total Sales ($34M), Total Boxes (2M), Total Costs ($14M), Total Profit ($21M), and Total Shipments (6K).
+Each KPI dynamically updates based on user selections.
+Month-over-Month (MoM) percentage change provides trend analysis.
+Dynamic Navigation with Slicers & Bookmarked Actions:
+
+The left-hand menu contains slicers for category-based filtering (e.g., Bars, Bites, Other).
+Clicking on category buttons triggers predefined bookmarks, allowing seamless switching between different reports and perspectives.
+Sales Trend Analysis:
+
+The line chart visualizes sales performance over time, helping track trends across months.
+Interactive filtering ensures users can drill down into specific time periods or product segments.
+Shipment Performance Analysis:
+
+The bar chart presents shipment volume distribution.
+A donut KPI gauge highlights the shipment success rate (10.21%) for quick performance assessment.
+Salesperson Performance Breakdown:
+
+The right-side table displays individual sales performance with key metrics like:
+Total Sales
+Profit & Profit %
+LBS% (weight-based performance)
+Conditional formatting (green check marks vs. red cross) helps quickly identify high- and low-performing salespeople.
+Advanced Drill-through Actions for Sales & Product Analysis:
+
+The two icons on the right enable deep dive exploration:
+Clicking the people icon reveals detailed insights on individual salesperson performance.
+Clicking the stacked box icon shows product-level sales and shipment trends.
+Technical Highlights:
+Advanced DAX formulas power KPI calculations and conditional formatting.
+Well-structured data model ensures high-performance querying and seamless interactivity.
+Custom bookmarks and action-based navigation create an engaging, user-friendly experience.
